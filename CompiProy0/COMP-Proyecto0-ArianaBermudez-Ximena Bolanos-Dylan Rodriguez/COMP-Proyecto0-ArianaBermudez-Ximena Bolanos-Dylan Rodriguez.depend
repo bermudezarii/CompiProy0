@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1487446725 source:/home/ximeb/Documentos/COMP-Proyecto 0-Ariana Bermudez-Ximena Bolaños-Dylan Rodriguez/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487473265 source:/home/ximeb/Documentos/COMP-Proyecto 0-Ariana Bermudez-Ximena Bolaños-Dylan Rodriguez/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+
+1487615003 source:/home/ximeb/Documentos/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487615479 source:/home/ximeb/Documentos/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1487553218 source:/home/ari/Downloads/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487571109 source:/home/ari/Downloads/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1487943624 source:/home/dylanrodbar/Descargas/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488058185 source:/home/dylanrodbar/Descargas/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	"global.h"
+
+1487748345 source:/home/ari/Downloads/CompiProy0-1/CompiProy0/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487748445 source:/home/ari/Downloads/CompiProy0-1/CompiProy0/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1487943624 source:/home/ximeb/CompiProy0/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488035922 source:/home/ximeb/CompiProy0/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	"global.h"
+
+1487992868 /home/ximeb/CompiProy0/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/global.h
+
+1487992868 /home/dylanrodbar/Descargas/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/global.h
+
+1487762936 source:/home/ximeb/CompiProy0/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1487873709 source:/home/ximeb/CompiProy0/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	"global.h"
+
+1487867999 /home/ximeb/CompiProy0/CompiProy0-master/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/global.h
+
+1487950824 source:/home/ari/Downloads/CompiProy0-2/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488000091 source:/home/ari/Downloads/CompiProy0-2/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	"global.h"
+
+1488000067 /home/ari/Downloads/CompiProy0-2/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/global.h
+
+1487943624 source:/home/dylanrodbar/Descargas/CompiProy0-master/CompiProy0-2/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488002201 source:/home/dylanrodbar/Descargas/CompiProy0-master/CompiProy0-2/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/source.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	"global.h"
+
+1487992868 /home/dylanrodbar/Descargas/CompiProy0-master/CompiProy0-2/COMP-Proyecto0-ArianaBermudez-Ximena Bolanos-Dylan Rodriguez/global.h
+
