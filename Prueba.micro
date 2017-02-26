@@ -1,1 +1,1 @@
-begin BB := 300 ; A := 200 ;end SCANEOF
+begin A := 50 + 60 ; BB := 300 + A ; end SCANEOF
